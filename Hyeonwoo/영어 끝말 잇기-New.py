@@ -1,3 +1,6 @@
+n = 3
+words = ["tank", "kick", "know", "wheel", "land", "dream", "mother", "robot", "tank"]
+
 def solution(n, words):
     old = []
     cnt = 0
